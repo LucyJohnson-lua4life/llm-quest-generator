@@ -35,7 +35,7 @@ That one is simply an extension of A). For example youre supposed to kill a Wolf
 
 C) **Interact with X**:
 Here it's simply about triggering a Mob, like praying on the Innos shrine.
-![Quest Type 3](gmac.png)
+![Quest Type 3](gmaa.png)
 
 
 
