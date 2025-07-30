@@ -23,18 +23,18 @@ The Daily Quests require you to accomplish 3 TASKS!
 
 #### There currently 3 types of Quests.
 A) **Kill X**:
-That one is simple. E.g The ambient NPC will hint you on killing an Wolf. If you do so, you will have accomplish a task.
+That one is simple. E.g The ambient NPC will hint you on killing a wolf. If you do so, you will have accomplished a task.
 A message will inform you, that you accomplished a task.
 ![Quest Type 1](gmac.png)
 
 
 B) **Kill X until you find Y**:
-That one is simply an extension of A). For example youre supposed to kill a Wolf until it drops a Health Root. (50% drop chance)
+That one is simply an extension of A). For example you're supposed to kill a Wolf until it drops a Health Root. (50% drop chance)
 ![Quest Type 2](gmab.png)
 
 
 C) **Interact with X**:
-Here it's simply about triggering a Mob, like praying on the Innos shrine.
+Here it's simply about triggering a Mob, like praying at the Innos shrine.
 ![Quest Type 3](gmaa.png)
 
 
